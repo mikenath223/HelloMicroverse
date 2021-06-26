@@ -4,7 +4,7 @@
 
 > A simple project setup  with html/css with support for linters and web accessibility.
 
-![screenshot](./screenshot.png)
+![screenshot](./chrome-capture.jpg)
 
 ## Built With
 
@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://mikenath223.github.io/HelloMicroverse/)
 
 
 ## Getting Started
@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 - Web browser
 
 ### Setup
-- Clone the repo to your local machine.
+- Clone the repo to your local machine, by running this `git clone git@github.com:mikenath223/HelloMicroverse.git` on your terminal
 
 ### Usage
 - Open the `index.html` file on your browser and use.
