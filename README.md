@@ -1,65 +1,50 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse!
 
-> One paragraph statement about the project.
+> A simple project setup  with html/css with support for linters and web accessibility.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./chrome-capture.jpg)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Stylelint
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://mikenath223.github.io/HelloMicroverse/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- NPM
+- Web browser
 
 ### Setup
-
-### Install
+- Clone the repo to your local machine, by running this `git clone git@github.com:mikenath223/HelloMicroverse.git` on your terminal
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Open the `index.html` file on your browser and use.
 
 ## Authors
 
-👤 **Author1**
+Ukeje Michgolden :man: 
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+* [Github profile](https://github.com/mikenath223)
+* [LinkedIn](https://www.linkedin.com/in/michgoldenukeje/)
+* [Twitter](https://twitter.com/MichgoldenU)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mikenath223/HelloMicroverse/issues).
 
 ## Show your support
 
